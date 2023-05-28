@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luyện Tập", "Luyện T�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap", "baitap\baitap.csproj", "{4D184E6E-21E8-4F3B-BD12-91E103EF54D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTest", "BaiTest\BaiTest.csproj", "{D15B22EF-CBDB-4151-99EE-920691912F5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D184E6E-21E8-4F3B-BD12-91E103EF54D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D184E6E-21E8-4F3B-BD12-91E103EF54D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D184E6E-21E8-4F3B-BD12-91E103EF54D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15B22EF-CBDB-4151-99EE-920691912F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15B22EF-CBDB-4151-99EE-920691912F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15B22EF-CBDB-4151-99EE-920691912F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15B22EF-CBDB-4151-99EE-920691912F5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
